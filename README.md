@@ -1,0 +1,3 @@
+# Varastorobotti
+
+School project
